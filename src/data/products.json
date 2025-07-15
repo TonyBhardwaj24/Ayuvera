@@ -1,0 +1,142 @@
+[
+  {
+    "id": "ayuvera-ds",
+    "name": "Ayuvera DS",
+    "category": "Diabetes",
+    "shortDescription": "Natural diabetes support with dual benefits for health & beauty",
+    "tagline": "Naturally Manage Diabetes & Enhance Beauty with Ayurveda",
+    "fullDescription": "Ayuvera DS is a powerful blend of authentic Ayurvedic herbs that helps maintain healthy blood sugar levels while enhancing your natural beauty from within. Our unique formula combines traditional wisdom with modern science to create a holistic solution for diabetes management.",
+    "price": "₹999",
+    "duration": "30 Capsules = 15 Days Supply",
+    "image": "https://mocha-cdn.com/0197c1fb-f560-79a3-8573-d720ae56e601/Screenshot_2025-06-30_230753-Artguru.png",
+    "benefits": [
+      "Lowers sugar levels naturally",
+      "Enhances skin glow",
+      "Improves metabolism",
+      "Reduces acne & blemishes",
+      "Increases energy levels",
+      "Slows aging naturally"
+    ],
+    "ingredients": [
+      "Gymnema Sylvestre (Gurmar)",
+      "Bitter Gourd (Karela)",
+      "Fenugreek (Methi)",
+      "Neem",
+      "Turmeric (Haldi)",
+      "Triphala"
+    ],
+    "dosage": "Take 2 capsules daily - one in the morning and one in the evening for optimal results."
+  },
+  {
+    "id": "ayuvera-glow-skin",
+    "name": "Ayuvera Glow Skin",
+    "category": "Beauty",
+    "shortDescription": "Radiant, clear skin from within using Ayurvedic herbs",
+    "tagline": "Reveal Your Natural Glow with Ayurvedic Skin Support",
+    "fullDescription": "Ayuvera Glow Skin is a premium Ayurvedic formulation designed to enhance your skin's natural radiance from within. Our unique blend of time-tested herbs works to detoxify your system, balance your doshas, and promote a clear, glowing complexion naturally.",
+    "price": "₹899",
+    "duration": "60 Capsules = 30 Days Supply",
+    "image": "https://images.pexels.com/photos/4465124/pexels-photo-4465124.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "benefits": [
+      "Enhances natural skin glow",
+      "Reduces acne and blemishes",
+      "Fights premature aging",
+      "Improves skin elasticity",
+      "Balances skin moisture",
+      "Detoxifies blood for clearer skin"
+    ],
+    "ingredients": [
+      "Neem",
+      "Aloe Vera",
+      "Turmeric",
+      "Manjistha",
+      "Saffron",
+      "Amla"
+    ],
+    "dosage": "Take 2 capsules daily with warm water after meals for best results."
+  },
+  {
+    "id": "ayuvera-hair-bloom",
+    "name": "Ayuvera Hair Bloom",
+    "category": "Hair",
+    "shortDescription": "Stop hair fall and promote new growth naturally",
+    "tagline": "Revitalize Your Hair from Root to Tip",
+    "fullDescription": "Ayuvera Hair Bloom combines ancient Ayurvedic wisdom with modern research to create a powerful formula that addresses hair fall, thinning, and premature graying. Our unique blend strengthens hair follicles, nourishes the scalp, and promotes the growth of thick, lustrous hair.",
+    "price": "₹799",
+    "duration": "60 Capsules = 30 Days Supply",
+    "image": "https://images.pexels.com/photos/7262999/pexels-photo-7262999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "benefits": [
+      "Reduces hair fall and breakage",
+      "Promotes new hair growth",
+      "Strengthens hair roots",
+      "Adds natural shine and volume",
+      "Prevents premature graying",
+      "Nourishes scalp and follicles"
+    ],
+    "ingredients": [
+      "Bhringraj",
+      "Amla",
+      "Brahmi",
+      "Hibiscus",
+      "Fenugreek",
+      "Ashwagandha"
+    ],
+    "dosage": "Take 2 capsules daily - one in the morning and one in the evening after meals."
+  },
+  {
+    "id": "ayuvera-immunomax",
+    "name": "Ayuvera ImmunoMax",
+    "category": "Immunity",
+    "shortDescription": "Powerful daily immunity boost with Ayurvedic herbs",
+    "tagline": "Strengthen Your Body's Natural Defenses",
+    "fullDescription": "Ayuvera ImmunoMax is a comprehensive immunity booster that combines the most powerful immune-enhancing herbs from the Ayurvedic tradition. Our formula helps strengthen your body's natural defense mechanisms, provides antioxidant protection, and supports overall wellness and vitality.",
+    "price": "₹749",
+    "duration": "60 Capsules = 30 Days Supply",
+    "image": "https://images.pexels.com/photos/4021779/pexels-photo-4021779.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "benefits": [
+      "Strengthens immune system",
+      "Fights seasonal illnesses",
+      "Increases energy and vitality",
+      "Improves respiratory health",
+      "Provides antioxidant protection",
+      "Reduces stress and fatigue"
+    ],
+    "ingredients": [
+      "Ashwagandha",
+      "Giloy",
+      "Tulsi",
+      "Amla",
+      "Mulethi",
+      "Ginger"
+    ],
+    "dosage": "Take 2 capsules daily with warm water for best results."
+  },
+  {
+    "id": "ayuvera-fit-burner",
+    "name": "Ayuvera Fit Burner",
+    "category": "Metabolism",
+    "shortDescription": "Natural metabolism booster for weight management",
+    "tagline": "Boost Metabolism Naturally for Healthy Weight Management",
+    "fullDescription": "Ayuvera Fit Burner is an advanced Ayurvedic formulation designed to enhance your body's metabolic rate naturally. Our blend of traditional herbs helps optimize digestion, reduce cravings, burn fat more efficiently, and support your weight management journey without harsh stimulants or side effects.",
+    "price": "₹849",
+    "duration": "60 Capsules = 30 Days Supply",
+    "image": "https://images.pexels.com/photos/4397840/pexels-photo-4397840.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "benefits": [
+      "Boosts metabolism naturally",
+      "Reduces food cravings",
+      "Improves fat burning efficiency",
+      "Enhances digestion and detoxification",
+      "Provides sustained energy",
+      "Supports healthy weight management"
+    ],
+    "ingredients": [
+      "Garcinia Cambogia",
+      "Triphala",
+      "Green Tea Extract",
+      "Guggul",
+      "Pippali",
+      "Cinnamon"
+    ],
+    "dosage": "Take 2 capsules daily - one before breakfast and one before dinner with warm water."
+  }
+]
